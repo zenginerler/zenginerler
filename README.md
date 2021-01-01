@@ -19,9 +19,8 @@
 ![](https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=5c5c5c&color=228B22&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=GitLab&logo=gitlab&labelColor=5c5c5c&color=228B22&logoColor=white&label=%20)
 
-
-### &#x1f4c8; GitHub Stats
 <!--
+### &#x1f4c8; GitHub Stats
 <a href="https://github.com/zenginerler/zenginerler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenginerler&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
