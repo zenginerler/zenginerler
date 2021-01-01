@@ -25,7 +25,6 @@
 <a href="https://github.com/zenginerler/zenginerler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenginerler&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
--->
 <a href="https://github.com/zenginerler/Tiko">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenginerler&repo=Tiko&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -34,8 +33,9 @@
 </a>
 <a href="https://github.com/zenginerler/zenginerler">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zenginerler&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zenginerler's GitHub Stats" />
-</a>
+-->
 <!--
+</a>
 **zenginerler/zenginerler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -46,8 +46,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=228B22)
-
 - 🤖 🦊
 -->
