@@ -4,6 +4,8 @@
 ![](https://img.shields.io/static/v1?message=Linux&logo=linux&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Windows&logo=windows&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=VSCode&logo=visual-studio-code&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=SublimeText&logo=sublime-text&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
+
 ![](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=C-Sharp&logo=c-sharp&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
@@ -15,10 +17,8 @@
 ![](https://img.shields.io/static/v1?message=Flutter&logo=flutter&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=ReactNative&logo=react&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 
-![](https://img.shields.io/static/v1?message=CMD&logo=codecademy&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=GitLab&logo=gitlab&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Bash&logo=gnu-bash&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 
 <!--
 ### &#x1f4c8; GitHub Stats
