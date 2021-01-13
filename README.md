@@ -1,6 +1,6 @@
-## 🐱‍👤 Welcome! 👋
+## 🐱‍👤 Welcome! 🐱‍👤
 
-### 💻 Technologies & Tools
+#### 💻 Technologies & Tools
 ![](https://img.shields.io/static/v1?message=Linux&logo=linux&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Windows&logo=windows&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=VSCode&logo=visual-studio-code&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
@@ -18,6 +18,7 @@
 ![](https://img.shields.io/static/v1?message=Flutter&logo=flutter&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=ReactNative&logo=react&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 
+[LinkedIn](https://www.linkedin.com/in/zenginerler/)
 <!--
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/zenginerler/zenginerler">
