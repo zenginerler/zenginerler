@@ -18,7 +18,6 @@
 ![](https://img.shields.io/static/v1?message=Flutter&logo=flutter&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=ReactNative&logo=react&labelColor=5c5c5c&color=01579b&logoColor=white&label=%20)
 
-[LinkedIn](https://www.linkedin.com/in/zenginerler/)
 <!--
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/zenginerler/zenginerler">
@@ -45,6 +44,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=228B22)
 - 🤖 🦊
+[LinkedIn](https://www.linkedin.com/in/zenginerler/)
 -->
