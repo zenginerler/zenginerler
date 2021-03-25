@@ -22,6 +22,9 @@
 ![](https://img.shields.io/static/v1?message=VSCode&logo=visual-studio-code&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=SublimeText&logo=sublime-text&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 
+<br>
+<a href="https://www.linkedin.com/in/zenginerler"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin" height=25></a> 
+<a href="https://zenginerler.github.io/"><img src="https://img.shields.io/badge/website-%230A0A0A.svg?&style=for-the-badge&logo=github" height=27></a>
 
 <!--
 #### 🌚 Languages Used in My Public Repos
