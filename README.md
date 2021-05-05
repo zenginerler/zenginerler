@@ -3,14 +3,15 @@
 #### 💻 Programming Languages
 ![](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=C-Sharp&logo=c-sharp&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Dart&logo=dart&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Dart&logo=dart&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=R&logo=r&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 
 ![](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=CSS&logo=css3&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=MySQL&logo=mysql&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 
 #### 🔧 Technologies & Tools
 ![](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
