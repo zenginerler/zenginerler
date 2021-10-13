@@ -1,4 +1,4 @@
-## 🐱‍👤 Welcome! 🐱‍👤
+## Welcome! 👋
 
 #### 💻 Programming Languages
 ![](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
