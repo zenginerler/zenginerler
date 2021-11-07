@@ -29,8 +29,9 @@
 
 
 <br>
+<a href="https://zenginerler.github.io/"><img src="https://img.shields.io/badge/my_website-%230A0A0A.svg?&style=for-the-badge&logo=github" height=25></a>
 <a href="https://www.linkedin.com/in/zenginerler"><img src="https://img.shields.io/badge/linkedin-%230A0A0A.svg?&style=for-the-badge&logo=linkedin" height=25></a> 
-<a href="https://zenginerler.github.io/"><img src="https://img.shields.io/badge/website-%230A0A0A.svg?&style=for-the-badge&logo=github" height=25></a>
+
 
 <!--
 #### 🌚 Languages Used in My Public Repos
@@ -49,5 +50,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🤖 🦊
-[LinkedIn](https://www.linkedin.com/in/zenginerler/)
 -->
