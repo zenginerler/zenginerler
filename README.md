@@ -1,4 +1,5 @@
 ## Welcome! 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenginerler&hide=html,css,objective-c,kotlin&layout=compact&langs_count=20&theme=dark" alt="stats"/>
 
 #### 💻 Programming Languages
 ![](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
@@ -27,19 +28,12 @@
 ![](https://img.shields.io/static/v1?message=AndroidStudio&logo=android-studio&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Xcode&logo=xcode&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 
-
 <br>
 <a href="https://zenginerler.github.io/"><img src="https://img.shields.io/badge/my_website-%230A0A0A.svg?&style=for-the-badge&logo=github" height=25></a>
 <a href="https://www.linkedin.com/in/zenginerler"><img src="https://img.shields.io/badge/linkedin-%230A0A0A.svg?&style=for-the-badge&logo=linkedin" height=25></a> 
+<br>
 
-
-<!--
-#### 🌚 Languages Used in My Public Repos
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenginerler&layout=compact&langs_count=6&theme=dark" />
-#### &#x1f4c8; GitHub Stats
-<a href="https://github.com/zenginerler/zenginerler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zenginerler&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zenginerler's GitHub Stats" />
-**zenginerler/zenginerler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **zenginerler/zenginerler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -49,5 +43,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🤖 🦊
--->
+- 🤖 🦊 🌚 &#x1f4c8; -->
