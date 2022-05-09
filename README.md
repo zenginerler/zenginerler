@@ -1,32 +1,39 @@
 ## Welcome! 👋
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenginerler&hide=html,css,objective-c,kotlin&layout=compact&langs_count=20&theme=dark" alt="stats"/> -->
-
+GoLand
 #### 💻 Programming Languages
+![](https://img.shields.io/static/v1?message=Golang&logo=go&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=TypeScript&logo=TypeScript&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=C-Sharp&logo=c-sharp&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+
 ![](https://img.shields.io/static/v1?message=Swift&logo=swift&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Dart&logo=dart&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=R&logo=r&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 
-![](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=CSS&logo=css3&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=JS&logo=javascript&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=MySQL&logo=mysql&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Firebase&logo=firebase&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=SQL&logo=mysql&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 
 #### 🔧 Technologies & Tools
 ![](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Docker&logo=docker&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Firebase&logo=firebase&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Flutter&logo=flutter&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=ReactNative&logo=react&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Unix/Linux&logo=linux&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Windows&logo=windows&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 
 ![](https://img.shields.io/static/v1?message=VSCode&logo=visual-studio-code&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Unity&logo=unity&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=AndroidStudio&logo=android-studio&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Xcode&logo=xcode&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=AndroidStudio&logo=android-studio&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+
+![](https://img.shields.io/static/v1?message=Linux&logo=linux&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=MacOS&logo=apple&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Windows&logo=windows&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 
 <br>
 <a href="https://zenginerler.github.io/"><img src="https://img.shields.io/badge/my_website-%230A0A0A.svg?&style=for-the-badge&logo=github" height=25></a>
