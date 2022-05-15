@@ -1,6 +1,5 @@
 ## Welcome! 👋
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenginerler&hide=html,css,objective-c,kotlin&layout=compact&langs_count=20&theme=dark" alt="stats"/> -->
-GoLand
 #### 💻 Programming Languages
 ![](https://img.shields.io/static/v1?message=Golang&logo=go&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=TypeScript&logo=TypeScript&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
