@@ -4,16 +4,17 @@
 ![](https://img.shields.io/static/v1?message=Golang&logo=go&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=TypeScript&logo=TypeScript&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=C-Sharp&logo=c-sharp&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Java&logo=OpenJDK&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 
+![](https://img.shields.io/static/v1?message=Bash&logo=GNUbash&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Swift&logo=swift&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Dart&logo=dart&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=R&logo=r&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 
+![](https://img.shields.io/static/v1?message=JS&logo=javascript&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=CSS&logo=css3&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=JS&logo=javascript&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=SQL&logo=mysql&labelColor=5c5c5c&color=CC5500&logoColor=white&label=%20)
 
@@ -39,18 +40,7 @@
 <a href="https://www.linkedin.com/in/zenginerler"><img src="https://img.shields.io/badge/linkedin-%230A0A0A.svg?&style=for-the-badge&logo=linkedin" height=25></a> 
 <br>
 
-<!-- **zenginerler/zenginerler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...Z
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🤖 🦊 🌚 &#x1f4c8;
-
+<!--
 <h1 align="center">Hi 👋, I'm Mehmet Yavuz Zenginerler</h1>
 <h3 align="center">Software Engineer who likes to solve computational problems in a reliable and secure way, who also finds rejoice in simplifying and organizing the complexity.</h3>
 
@@ -69,5 +59,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenginerler&show_icons=true&theme=dark&locale=en" alt="zenginerler" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenginerler&theme=dark" alt="zenginerler" /></p>
-
  -->
